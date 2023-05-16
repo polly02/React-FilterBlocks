@@ -5,7 +5,7 @@ React-FilterBlocks is a project focused on implementing block filtering function
 
 • User-friendly interface with Mantine components
 
-• Built with React, JavaScript, CSS
+• Built with React, JavaScript, SCSS
 
 • Automatic code formatting with Prettier
 
