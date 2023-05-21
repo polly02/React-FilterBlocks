@@ -4,8 +4,8 @@ import Search from "../../Components/Search/Search"
 function HomePage() {
     return (
         <>
-        <Search/>
-        <Content/>
+            <Search />
+            <Content />
         </>
     )
 }
